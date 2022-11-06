@@ -1,10 +1,10 @@
-import React from 'react';
-import Counter from './components/Counter';
+import React from "react";
+import Form from "../../learn-react/src/components/FormHandiling/Form";
 
 const App = () => {
   return (
     <div>
-      <Counter />
+      <Form />
     </div>
   );
 };
